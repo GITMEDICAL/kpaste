@@ -1,0 +1,3 @@
+{workflow_secret --owner=anna-money --repo=workflow-tools \
+  --token="terraform.io" \
+  update --key=MY_SECRET_KEY --value=MY_VALUE}

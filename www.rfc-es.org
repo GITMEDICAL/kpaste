@@ -1,0 +1,95 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es">
+<head>
+<title>RFC-es - Grupo de Traducci&oacute;n de RFC al español</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Description" content="RFC traducidos al español" />
+<meta name="Keywords" content="RFC, STD, FYI, BCP, protocolo, TCP, IP, FTP, HTTP, ICMP, IRC, NTTP, IPX, castellano, español, hispano, estandar, standard, internet, linux, unix, network, redes, telecomunicaciones, informatica" />
+<meta name="Classification" content="computer science, standard internet protocols" />
+<link rel="icon" href="images/mini-rfc-es.png" type="image/png" />
+<link rel="stylesheet" href="style.css?v=1" type="text/css" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<div class="top">
+<img src="images/logo4.png" alt="RFC-es Grupo de Traducción al español" />
+</div>
+<div class="menu" style="clear:both;">
+<a href="index" title="Página de Inicio">Inicio</a> |
+<a href="descargas" title="RFC Traducidos al español">Descarga de RFC-es</a>
+</div>
+
+<div class="contents"><div style="float:left">
+Esta p&aacute;gina est&aacute; dedicada a
+<a href="http://www.postel.org">J. Postel</a>
+<h2>Documentos RFC en español</h2>
+</div>
+<div style="float:right">
+<div class="cse-branding-bottom" style="background-color:#FFFFFF;color:#000000">
+<div class="cse-branding-form">
+<form action="https://www.google.com/cse" id="cse-search-box">
+<div>
+<input type="hidden" name="cx" value="partner-pub-4526369467292093:j33hbsgxlve" />
+<input type="hidden" name="ie" value="UTF-8" />
+<input type="text" name="q" size="31" />
+<input type="submit" name="sa" value="Buscar" />
+</div>
+</form>
+</div>
+<div class="cse-branding-logo" style="float:left;">
+<img src="https://www.google.com/images/poweredby_transparent/poweredby_FFFFFF.gif" alt="Google" />
+</div>
+<div class="cse-branding-text">
+B&#250;squeda de RFCs
+</div>
+</div>
+</div>
+<div style="clear:both">Bienvenido a RFC-ES. Este sitio está
+dedicado a la traducción al español de la documentación
+estándar sobre Internet conocida como <acronym title="Request
+For Comments">RFC</acronym> (<b>R</b>equest <b>F</b>or <b>C</b>omments). En esta serie
+de documentos se detalla prácticamente todo lo relacionado con la
+tecnolog&iacute;a de la que se sirve <b>Internet</b>: protocolos, recomendaciones,
+comunicaciones...
+</div>
+<p>
+La colecci&oacute;n completa de RFCs est&aacute; formada por <b>m&aacute;s de
+3000 documentos</b> que especifican est&aacute;ndares, son recomendaciones,
+informativos o han quedado obsoletos.
+El encargado de publicarlos es el <a href="http://www.rfc-editor.org/" title="Página web del Editor de RFCs">Editor de RFCs</a> y, aunque cualquiera puede
+proponer un RFC, el <a href="http://www.ietf.org" title="Página de la IETF">IETF</a> es una de las principales fuentes.
+</p>
+<p>Hasta aqu&iacute; todo es perfecto pero los RFCs est&aacute;n escritos en
+ingl&eacute;s y... &iquest;qu&eacute; ocurre si tu
+conocimiento de la lengua de Shakespeare no llega para entender los conceptos
+que dan a conocer los RFCs? Tienes dos opciones: o aprendes a ritmo acelerado
+o... <b>&iexcl;aqu&iacute; estamos nosotros!</b>
+</p>
+<h3>El grupo RFC-ES</h3>
+<p>
+Para rellenar esa ausencia de traducciones al castellano o espa&ntilde;ol de
+documentos tan importantes, surge en noviembre de 1999 el grupo <b>RFC-ES</b>
+por iniciativa de Pierre J. Le&oacute;n. El prop&oacute;sito del grupo es
+traducir la mayor cantidad de RFCs posible a nuestra lengua, dando prioridad a
+aquellos que sean estándares.
+</p>
+<p>
+El grupo NO está activo.
+</p>
+</div>
+<div class="bottom">
+<div>
+<script type="text/javascript"> 
+   var _gaq = [['_setAccount', 'UA-212090-1'], ['_trackPageview']];
+   (function(d, t) {
+    var g = d.createElement(t),
+        s = d.getElementsByTagName(t)[0];
+    g.async = true;
+    g.src = '//www.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g, s);
+   })(document, 'script');
+</script>
+</div>
+</body>
+</html>
